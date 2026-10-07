@@ -1,10 +1,10 @@
 
 
-<table>
+<table border="0" width="100%">
   <tr>
-    <td width="60%" valign="middle">
+    <td width="60%" valign="center" style="padding: 20px 30px;">
 
-<h1> Oieee, seja bem-vindo(a)! 👋 </h1>
+<h1> Olá, seja bem-vindo(a)!👋 </h1>
 
 <h3> Me chamo Ana Julia</h3>
 
@@ -14,12 +14,11 @@
 🚀 Construindo meu caminho na área de tecnologia
 
   </td>  
-  <td width="40%" align="center" valign="middle">
+  <td width="40%" align="center" valign="middle" style="padding: 20px;">
 <img align="right" width="400px" src="https://media.giphy.com/media/BIA2rRLTq0ibe/giphy.gif">
   </td>
   </tr>
 </table>
----
 
 ## Tecnologias e ferramentas
 
